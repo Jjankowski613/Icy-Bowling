@@ -1,0 +1,10 @@
+# ninja log v5
+280	2326	7870098204982308	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	daed86dbf78a6292
+0	2338	7870098204957174	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	1a5542df8d8b734f
+244	2353	7870098205234476	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	b17145903d0c8ace
+290	2415	7870098205956688	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	f72eb844baa544ab
+268	2520	7870098206899568	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	2b514be13b336264
+318	2561	7870098207399315	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	d01f542774a48c3e
+302	2563	7870098207425001	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	8ac32eadfe53d10d
+259	2652	7870098208245974	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	33a94eb913a7defe
+2653	3078	7870098212551662	E:/Unity/Pyongyang Glitch Bowling/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/Debug/54716s6f/obj/arm64-v8a/libgame.so	c9994b38441d73ff
